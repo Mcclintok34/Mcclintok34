@@ -1,6 +1,5 @@
-Hi There friends
 - 👋 Hi, I’m Regina@Mcclintok34
-- 👀 I’m interested in music, animals, positive energy.
+- 👀 I’m interested in music, animals, positive energy. 
 - 🌱 I’m currently learning Ruby.
 - 💞️ I’m looking to collaborate on projects to build my repository.
 - 📫 reginaflores34@icloud.com
