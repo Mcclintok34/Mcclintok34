@@ -1,3 +1,4 @@
+Hi There friends
 - 👋 Hi, I’m Regina@Mcclintok34
 - 👀 I’m interested in music, animals, positive energy.
 - 🌱 I’m currently learning Ruby.
